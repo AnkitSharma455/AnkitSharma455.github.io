@@ -23,6 +23,10 @@ body {
   color: $body;
 }
 
+#main {
+  max-width: 740px;
+}
+
 .container {
   margin: 0 auto;
   max-width: 90%;
