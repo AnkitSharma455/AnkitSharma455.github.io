@@ -13,6 +13,3 @@ Feel free to give me your valuable suggestions/advice
 You can find me at [@Ankit_Sharma0](https://twitter.com/Ankit_Sharma0) on Twitter
 You can E-mail me at [ankitsharma41655@gmail.com](mailt0:ankitsharma41655@gmail.com)
 
-### Contact me
-
-[email@domain.com](mailto:ankitsharma41655@gmail.com)
