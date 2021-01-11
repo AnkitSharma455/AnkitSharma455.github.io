@@ -25,7 +25,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 850px;
+  max-width: 90%;
   padding: 0 10px;
   width: 100%;
 }
@@ -157,7 +157,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+
 
   @include mobile {
     text-align: center;
@@ -274,8 +274,6 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
   background-color: $footer_color;
 }
 
