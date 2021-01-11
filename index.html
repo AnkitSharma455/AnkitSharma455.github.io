@@ -12,6 +12,8 @@ layout: default
         written on {{ page.date | date: "%B %e, %Y" }}
       </div>
 
+      {% include disqus.html %}
+      
       <div class="entry">
         {{ post.excerpt }}
       </div>
