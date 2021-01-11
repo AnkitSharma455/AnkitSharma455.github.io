@@ -200,15 +200,7 @@ img {
   letter-spacing: 1px;
 }
 
-.site-description {
-  margin: -5px 0 0 0;
-  color: $text_color;
-  font-size: 16px;
 
-  @include mobile {
-    margin: 3px 0;
-  }
-}
 
 nav {
   float: right;
