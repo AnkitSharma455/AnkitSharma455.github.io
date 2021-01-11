@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a student pursuing Bachelor of technology in Computer Science and Engineering.
+I am currently working on *Machine Learning* and *Android Development*
 
-### More Information
+This blog will contain tutorials and guidelines for *Machine Learning* and *Deep Learning*.
 
-A place to include any other types of information that you'd like to include about yourself.
+Feel free to give me your valuable suggestions/advice
+You can find me at [@Ankit_Sharma0](https://twitter.com/Ankit_Sharma0) on Twitter
+You can E-mail me at [ankitsharma41655@gmail.com](mailt0:ankitsharma41655@gmail.com)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:ankitsharma41655@gmail.com)
