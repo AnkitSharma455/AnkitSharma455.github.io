@@ -239,7 +239,7 @@ nav {
 
 .posts {
  display : grid;
- grid-auto-columns : 30%;
+ grid-auto-columns : auto;
 }
 
 .posts > .post {
